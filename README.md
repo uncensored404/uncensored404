@@ -28,7 +28,7 @@
   "location": "Cyberspace",
   "stack": ["TypeScript", "Go", "Python", "Bash", "Docker"],
   "focus": ["Discord Client Security", "OSINT Reconnaissance", "Token & Secret Protection", "Privacy Utilities"],
-  "discord_id": "404sec",
+  "discord": "404sec",
   "status": "Refactoring security tools & expanding Vencord plugin ecosystem"
 }
 ```
