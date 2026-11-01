@@ -66,32 +66,4 @@ drwxr-xr-x  PermissionsInspector     # Contrôle visuel des permissions d'utilis
 
 ---
 
-### 📊 GitHub Statistics & Metrics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=uncensored404&show_icons=true&theme=matrix&hide_border=true&title_color=00FF66&icon_color=00FF66&text_color=FFFFFF&bg_color=0D1117" alt="uncensored404's GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uncensored404&layout=compact&theme=matrix&hide_border=true&title_color=00FF66&text_color=FFFFFF&bg_color=0D1117" alt="Top Languages" width="48%" />
-
-<br /><br />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=uncensored404&theme=matrix&hide_border=true&background=0D1117&ring=00FF66&fire=00FF66&currStreakLabel=00FF66" alt="uncensored404 Streak" width="97%" />
-
-</div>
-
----
-
-### 📫 Connect & Contact
-
-<div align="center">
-
-[![Discord](https://img.shields.io/badge/Discord-ID%201562443501097058418-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1562443501097058418)
-[![GitHub](https://img.shields.io/badge/GitHub-uncensored404-00FF66?style=for-the-badge&logo=github&logoColor=0D1117)](https://github.com/uncensored404)
-
-<br />
-
-```text
-[uncensored404@github ~]$ echo "Stay secure. Keep building."
-```
-
 </div>
