@@ -3,7 +3,7 @@
   <!-- Header Banner Matrix/Neon -->
   <img src="https://i.pinimg.com/1200x/28/a1/6c/28a16c3f8616496d15429410ca8351b5.jpg" width="100%" alt="Header Banner" />
 
-  <h1>⚡ 404sec // CyberSecurity & DevSecOps Enthusiast ⚡</h1>
+  <h1> 404sec // CyberSecurity & DevSecOps Enthusiast </h1>
 
   <p>
     <a href="https://github.com/uncensored404"><img src="https://img.shields.io/github/followers/uncensored404?style=for-the-badge&logo=github&color=00FF66&logoColor=0D1117" alt="GitHub Followers"></a>
@@ -18,7 +18,7 @@
 
 ---
 
-### 👨‍💻 `whoami`
+###  `whoami`
 
 ```json
 {
@@ -49,7 +49,7 @@
 
 ---
 
-### 🚀 Key Projects & Repositories
+###  Key Projects & Repositories
 
 ```bash
 $ ls -la /home/uncensored404/projects/
