@@ -1,5 +1,5 @@
 <div align="center">
-  <!-- Header Banner -->
+  <!-- Header Banner Matrix/Neon -->
 <img src="https://capsule-render.vercel.app/render?type=waving&color=00FF66&height=220&section=header&text=404sec&fontSize=80&fontColor=0D1117&animation=twinkling&fontAlignY=40" width="100%" alt="Header Banner" />
 <h1>⚡ 404sec // CyberSecurity & DevSecOps Enthusiast ⚡</h1>
 <p>
