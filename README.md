@@ -35,7 +35,7 @@
 
 ---
 
-### 🛠️ Tech Stack & Arsenal
+###  Tech Stack & Arsenal
 
 <div align="center">
 
